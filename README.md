@@ -1,1 +1,1 @@
-# sdet_ai_agent
+# sdet_cli_ai_agent
